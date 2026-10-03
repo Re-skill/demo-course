@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<courseStructure xmlns="https://w3id.org/xapi/profiles/cmi5/v1/CourseStructure.xsd">
+  <course id="https://reskill.io/xapi/activity/course/7af9901e-4019-446d-9e86-ef566afbbbe8/structure">
+    <title><langstring lang="en">Managing Gen Z Hiring</langstring></title>
+    <description><langstring lang="en">This scenario-based course helps people managers attract, hire, and onboard Gen Z employees more effectively. Learners will make practical decisions about candidate experience, expectation-setting, and first-90-day support to improve early retention and engagement.</langstring></description>
+  </course>
+  <au id="https://reskill.io/xapi/activity/course/7af9901e-4019-446d-9e86-ef566afbbbe8" moveOn="CompletedAndPassed" masteryScore="0.7" launchMethod="AnyWindow">
+    <title><langstring lang="en">Managing Gen Z Hiring</langstring></title>
+    <description><langstring lang="en">This scenario-based course helps people managers attract, hire, and onboard Gen Z employees more effectively. Learners will make practical decisions about candidate experience, expectation-setting, and first-90-day support to improve early retention and engagement.</langstring></description>
+    <url>au/index.html</url>
+  </au>
+</courseStructure>
